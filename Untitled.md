@@ -1,0 +1,1 @@
+VAE of weather data. In the loss function, encode difference in representation (simply MSE), difference in 

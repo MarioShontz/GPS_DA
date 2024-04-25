@@ -1,2 +1,0 @@
-## Elements
-- Variational Autoencoder

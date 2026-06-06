@@ -1,3 +1,5 @@
+>[!NOTE]
+> See src/GPS_DA.ipynb for the source code for this project.
 
 # Weather Data Compression for Ensemble Forecasting
 
